@@ -1,0 +1,16 @@
+public class A()
+{
+    int x;
+    public def void func(int c)
+    {
+        int c;
+    }
+}
+public class B() extends A
+{
+    int x;
+    public def void func(int c)
+    {
+        int c;
+    }
+}
